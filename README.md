@@ -2,8 +2,6 @@
 
 Soluciones a los retos del [AdventJS](https://adventjs.dev/) 2023.
 
-![Alt text](./lib/rank.png)
-
 El [AdventJS](https://adventjs.dev/) es un evento iniciativa de
 [@midudev](https://midu.dev/). En él, durante 24 días del mes de diciembre se
 estarán publicando retos en la página oficial del evento:
